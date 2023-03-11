@@ -2,7 +2,7 @@ from django.shortcuts import render
 from django.http import HttpResponse
 from django.template import loader
 import requests
-import json
+
 
 import pandas as pd;
 import numpy as np;
