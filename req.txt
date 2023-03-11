@@ -1,7 +1,7 @@
-django
-request
-json
-pandas
-numpy
-sklearn
-seaborn
+django==4.1.7
+request==2.7.0
+json==3.11.2
+pandas==0.6.6
+numpy==1.0.1
+sklearn==1.22
+seaborn==0.12.2
