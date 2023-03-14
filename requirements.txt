@@ -31,7 +31,6 @@ packaging==21.3
 pandas==1.5.3
 Pillow==9.1.0
 platformdirs==2.5.2
-PyAudio @ file:///C:/Users/Naman/Downloads/PyAudio-0.2.11-cp39-cp39-win_amd64.whl
 PyAutoGUI==0.9.53
 pycparser==2.21
 PyGetWindow==0.0.9
